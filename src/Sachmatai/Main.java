@@ -1,4 +1,4 @@
-package Uzdavinys1;
+package Sachmatai;
 
 import java.math.BigInteger;
 

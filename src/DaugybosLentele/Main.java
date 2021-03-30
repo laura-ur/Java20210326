@@ -1,4 +1,4 @@
-package Uzdavinys2;
+package DaugybosLentele;
 
 public class Main {
     public static void main(String[] args) {
