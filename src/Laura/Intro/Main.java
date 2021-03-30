@@ -1,4 +1,4 @@
-package com.company;
+package Laura.Intro;
 
 public class Main {
 
