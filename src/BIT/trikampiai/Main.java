@@ -1,8 +1,8 @@
-package Laura.trikampiai;
+package BIT.trikampiai;
 
 import java.util.Scanner;
 
-public class main {
+public class Main {
 
 
     public static void main(String[] args) {
@@ -22,7 +22,7 @@ public class main {
             System.out.println("Tai ne trikampis");
 
 // tikrinam ar lygiakrastis
-        } else if (a == b && b == c && c == a) {
+        } else if (a == b && b == c) {
             System.out.println("Tai lygiakrastis trikampis, kurio plotas = " + plotas);
 
 // tikrinam ar lygiasonis
@@ -30,7 +30,7 @@ public class main {
             System.out.println("Tai lygiasonis trikampis, kurio plotas = " + plotas);
 
 // tikrinam ar ivairiakrastis
-        } else if (a != b && b != c && c != a) {
+        } else if (a != b && b != c) {
             System.out.println("Tai ivairiakrastis trikampis, kurio plotas = " + plotas);
 
         }

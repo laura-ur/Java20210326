@@ -1,4 +1,4 @@
-package Laura.DaugybosLentele;
+package BIT.DaugybosLentele;
 
 public class Main {
     public static void main(String[] args) {

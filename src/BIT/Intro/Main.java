@@ -1,4 +1,4 @@
-package Laura.Intro;
+package BIT.Intro;
 
 public class Main {
 

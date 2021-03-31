@@ -1,4 +1,4 @@
-package Laura.Sachmatai;
+package BIT.Sachmatai;
 
 import java.math.BigInteger;
 
