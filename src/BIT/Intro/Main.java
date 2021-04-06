@@ -1,4 +1,4 @@
-package com.company;
+package BIT.Intro;
 
 public class Main {
 
